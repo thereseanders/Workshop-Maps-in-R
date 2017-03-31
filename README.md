@@ -4,5 +4,5 @@ This workshop provides a first introduction to visualizing spatial data in `R`. 
 
 You will need [`R`](https://www.r-project.org) and [RStudio](https://www.rstudio.com/products/rstudio/download/) installed on your machine. If you do not yet have these on your computer, please download and install [`R`](https://www.r-project.org) and [RStudio](https://www.rstudio.com/products/rstudio/download/) prior to the workshop.
 
-* Instructor: [Therese Anders](dornsife.usc.edu/anders).
+* Instructor: [Therese Anders](http://dornsife.usc.edu/anders).
 * Workshop is sponsored by the [USC Graduate Student Government](https://gsg.usc.edu).
