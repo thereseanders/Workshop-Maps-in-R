@@ -12,8 +12,8 @@ Please download the entire repository as a `.zip` file and store it locally on y
 
 This repository contains the following files:
 
-* `./data/`: This folder contains all the original data used in this workshop. Please download this folder and store it locally on your machine.
+* `/data/`: This folder contains all the original data used in this workshop. Please download this folder and store it locally on your machine.
 * `poir_mapsinr_ta_170405.md`: Markdown file of the workshop material. Open this to view a html version of the workshop material in your browser.
 * `poir_mapsinr_ta_170405.rmd`: `R` Markdown file of the workshop material. Download this file if you would like a local copy of the workshop material.
-* `./poir_mapsinr_ta_170405_files/figure-html/`: Contains all the figures that are created via the `.rmd` file and embedded in the `.md` file.
+* `/poir_mapsinr_ta_170405_files/figure-html/`: This folder contains all the figures that are created via the `.rmd` file and embedded in the `.md` file.
 
